@@ -1,0 +1,15 @@
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\bin\Debug\net6.0\Lesson9_HomeWork.exe
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\bin\Debug\net6.0\Lesson9_HomeWork.deps.json
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\bin\Debug\net6.0\Lesson9_HomeWork.runtimeconfig.json
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\bin\Debug\net6.0\Lesson9_HomeWork.dll
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\bin\Debug\net6.0\Lesson9_HomeWork.pdb
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.AssemblyInfo.cs
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.dll
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\refint\Lesson9_HomeWork.dll
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.pdb
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\Lesson9_HomeWork.genruntimeconfig.cache
+C:\Users\Ani\Desktop\Уроки\Git\Csharp\Lesson9_HomeWork\obj\Debug\net6.0\ref\Lesson9_HomeWork.dll
